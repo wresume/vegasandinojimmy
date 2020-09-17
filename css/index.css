@@ -289,8 +289,12 @@ hgroup h3{
 	text-decoration: underline;
 }
 .recom-letter{
+	margin-bottom: 2.5em !important;
 	color: #808080;
 	text-underline-position: under;
+}
+.padding-line-fixed{
+	margin-bottom: .25em !important;
 }
 @media all and (max-width: 1280px){
 	#root{
