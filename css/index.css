@@ -289,7 +289,7 @@ hgroup h3{
 	text-decoration: underline;
 }
 .recom-letter{
-	color: rgb(250,250,250);
+	color: #808080;
 	text-underline-position: under;
 }
 @media all and (max-width: 1280px){
