@@ -288,6 +288,10 @@ hgroup h3{
 #downloads a:hover{
 	text-decoration: underline;
 }
+.recom-letter{
+	color: rgb(250,250,250);
+	text-underline-position: under;
+}
 @media all and (max-width: 1280px){
 	#root{
 		max-width: 75%;
